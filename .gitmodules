@@ -1,0 +1,3 @@
+[submodule "webcontrol"]
+	path = webcontrol
+	url = https://github.com/mtflud/DCH-S220-Web-Control.git
