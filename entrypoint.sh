@@ -1,6 +1,8 @@
 #!/bin/sh
 
 USER_USER="abc"
+SIREN_IP_ADDRESS="192.168.1.195"
+SIREN_PASSWORD="730384"
 
 if [ ! -e /.configured ]; then
    echo "*** Configuring container ***"
